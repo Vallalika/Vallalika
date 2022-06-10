@@ -3,7 +3,7 @@ I'm a junior software developer currently studying at CodeClan in Edinburgh, Sco
 
 
 ### My projects
-- 🧀 **[CheeseShop Inventory](https://github.com/Vallalika/Cheese_shop_inventory) | SOLO project:** A webapp tracking and managing cheese products' details, stock and providers. It was built using OOP and modelled on an MVC pattern.
+- 🧀 **[CheeseShop Inventory](https://github.com/Vallalika/Cheese_shop_inventory) | SOLO project:** A fullstack webapp tracking and managing cheese products' details, stock and providers. It was built using OOP and modelled on an MVC pattern.
 - 🦠 🎮 **[Covatars](https://github.com/Vallalika/CodeClan_Virus_Game) | GROUP project:** A digital version of the **Virus!** card game built on a MERN stack.
 
 ### What's next?
