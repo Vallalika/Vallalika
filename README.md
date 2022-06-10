@@ -6,10 +6,8 @@ I'm a junior software developer currently studying at CodeClan in Edinburgh, Sco
 - 🧀 **[CheeseShop Inventory](https://github.com/Vallalika/Cheese_shop_inventory) | SOLO project:** A webapp tracking and managing cheese products' details, stock and providers. It was built using OOP and modelled on an MVC pattern.
 - 🦠 🎮 **[Covatars](https://github.com/Vallalika/CodeClan_Virus_Game) | GROUP project:** A digital version of the **Virus!** card game built on a MERN stack.
 
-
 ### What's next?
 <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
 
 ### Languages & Tools
 <span>
@@ -25,6 +23,9 @@ I'm a junior software developer currently studying at CodeClan in Edinburgh, Sco
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  <img width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+  <img width="80px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
 </span>
-          
+<br />
+<br />
+
+### Contact:   <a href="https://www.linkedin.com/in/valerie-bayard-441ba7197"><img height="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
