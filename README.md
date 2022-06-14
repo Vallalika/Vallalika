@@ -1,5 +1,6 @@
 ## Hi there, I'm Valerie!
-I'm a junior software developer currently studying at CodeClan in Edinburgh, Scotland.
+I'm a junior software developer studying at CodeClan in Edinburgh, Scotland.
+🌱 Currently learning **Java**
 
 ### My projects
 - 🧀 **[CheeseShop Inventory](https://github.com/Vallalika/Cheese_shop_inventory) | SOLO project:** A fullstack webapp tracking and managing cheese products' details, stock and providers. It was built using OOP and modelled on an MVC pattern.
@@ -14,6 +15,7 @@ I'm a junior software developer currently studying at CodeClan in Edinburgh, Sco
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />          
@@ -21,6 +23,7 @@ I'm a junior software developer currently studying at CodeClan in Edinburgh, Sco
   <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
@@ -29,8 +32,6 @@ I'm a junior software developer currently studying at CodeClan in Edinburgh, Sco
 <br />
 <br />
 
-### What's next?
-<img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <hr />
 
 ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vallalika)
