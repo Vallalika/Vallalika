@@ -2,7 +2,7 @@
 I'm a junior software developer studying at CodeClan in Edinburgh, Scotland.
 <br />
 
-🌱 Currently learning...
+🌱 **Currently learning...**
 <br />
 
 <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
