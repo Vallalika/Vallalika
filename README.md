@@ -1,6 +1,6 @@
 ## Hi there, I'm Valerie!
 I'm a junior software developer studying at CodeClan in Edinburgh, Scotland.
-🌱 Currently learning **Java**
+🌱 Currently learning **Java**.
 
 ### My projects
 - 🧀 **[CheeseShop Inventory](https://github.com/Vallalika/Cheese_shop_inventory) | SOLO project:** A fullstack webapp tracking and managing cheese products' details, stock and providers. It was built using OOP and modelled on an MVC pattern.
