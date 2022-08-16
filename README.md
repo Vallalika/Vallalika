@@ -2,10 +2,19 @@
 I'm a junior software developer in Edinburgh, Scotland.
 <br />
 
-🌱 **Currently learning...**
+🌱 **Currently working on...**
 <br />
 
-<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<span>
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</span>
+<br />
+**for**
+<br />
+🌱 [PlantIt!](https://github.com/Vallalika/houseplantapp)
+
 
 ### My projects
 - 🌱 **[PlantIt!](https://github.com/Vallalika/houseplantapp) | SOLO project:** A fullstack web-app to help keep houseplants healthy! Built with Java/Spring, React Js and PostrgeSQL.
