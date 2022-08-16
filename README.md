@@ -1,20 +1,17 @@
 ## Hi there, I'm Valerie!
 I'm a junior software developer in Edinburgh, Scotland.
 <br />
-
-🌱 **Currently working on...**
 <br />
 
+Currently working on 🌱**PlantIt!** - a houseplant care app, with:
+<br />
+<br />
 <span>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </span>
-<br />
-**for**
-<br />
-🌱 [PlantIt!](https://github.com/Vallalika/houseplantapp)
-
 
 ### My projects
 - 🌱 **[PlantIt!](https://github.com/Vallalika/houseplantapp) | SOLO project:** A fullstack web-app to help keep houseplants healthy! Built with Java/Spring, React Js and PostrgeSQL.
